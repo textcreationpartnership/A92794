@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable memento's, and sober advice: the former in a very concise narrative of eight yeares marvellous mercifull providences, and mans ungratefull return. The latter in XVIII. additionall expedients. Humbly tendred to the view of all, partakers in the mercies, and parties in the delinquency, but especially to the great sticklers in the two grand divisions of the Presbyterian and Dissenting parties.</title>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92794</idno><idno type="EEBO-CITATION">99862258</idno>
+  <idno type="VID">160407</idno>
+  <idno type="EEBO-PROQUEST">2240945174</idno>
+  
+            <idno type="STC">Wing S2235</idno>
+            <idno type="STC">Thomason E400_27</idno>
+            <idno type="STC">ESTC R201758</idno>
+            <idno type="PROQUEST">99862258</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862258e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160407)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable memento's, and sober advice: the former in a very concise narrative of eight yeares marvellous mercifull providences, and mans ungratefull return. The latter in XVIII. additionall expedients. Humbly tendred to the view of all, partakers in the mercies, and parties in the delinquency, but especially to the great sticklers in the two grand divisions of the Presbyterian and Dissenting parties.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="topical_term">Separatists --  England --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160407:1"/>
+            <p>Seasonable Memento's, AND Sober Advice: The former in a very concise Narrative of eight yeares marvellous mercifull Provi<g ref="char:EOLhyphen"/>dences, and mans ungratefull Return.</p>
+            <p>The latter in XVIII. additionall Expedients.</p>
+            <p>
+               <hi>Humbly tendred to the view of all, partakers in the mercies, and parties in the delinquency,</hi> BUT Especially to the great Sticklers in the two grand divi<g ref="char:EOLhyphen"/>sions of the <hi>Presbyterian</hi> and <hi>Dissenting</hi> Parties.</p>
+            <q>
+               <p>He remembred us in our low estate, and rescued us from our oppressors,</p>
+               <bibl>
+                  <hi>Psal. 136.23, 24.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Yet they sinned still against him, and provoked God in the wilder<g ref="char:EOLhyphen"/>nesse,</p>
+               <bibl>
+                  <hi>Psal. 78.17.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Then there arose a reasoning among them, which of them should be the greatest,</p>
+               <bibl>
+                  <hi>Luke 9.46.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>By righteousnesse and judgment the throne and the land is established,</p>
+               <bibl>
+                  <hi>Pro. 16.12. &amp; 29.4. the reason is Psal. 89.14.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>So shalt thou take away the cry of innocent blood from thee, when thou shalt do that which is right in the eyes of the Lord,</p>
+               <bibl>
+                  <hi>Deut. 21.2.</hi> to <hi>9.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:160407:2"/>
+            <pb n="1" facs="tcp:160407:2"/>
+            <head>Seasonable Memento's AND Sober Advice, &amp;c.</head>
+            <p>LOok a little backward, O ye <hi>Brittish Christians,</hi> behold and <hi>wonder</hi> at what the <hi>Lord of Hosts</hi> your <hi>God</hi> hath wrought, not onely in the daies of our fathers, in our deliverance from Antichristian darknesse and tyranny, from Spanish plots, and powder-treason, all which never to bee forgotten. But in our daies when we were involved in a condition neere hopelesse, and were brought to the very brinke of <hi>desperation;</hi> how he raised a <hi>religious,</hi> noble, and <hi>magnanimous</hi> spirit in our deer Brethren of <hi>renowned Scotland,</hi> and <hi>how</hi> he lead them by the hand through <hi>strange difficulties,</hi> and those (many) seldome trod<g ref="char:EOLhyphen"/>den paths; and how hee made them to us a <hi>blessing,</hi> in procu<g ref="char:EOLhyphen"/>ring to us a Parliament, and <hi>how</hi> by discoverie of plots and secret crafty Councells, and by <hi>overmatching</hi> by strong providences the wille and potent adversaries, <hi>he catched the wise,</hi> even <hi>Bishops,</hi> and <hi>all in their own craftinesse,</hi> and over-turned them by their own counsells not a few times, <hi>defeating</hi> all machinations of <hi>Straf<g ref="char:EOLhyphen"/>ford, Canterbury,</hi> and their Confederates, of <hi>Jermine,</hi> and <hi>Piercy,</hi> and their Complices, of <hi>Digby, Byron, Lunsford,</hi> of hostile House of Commons visitors, and all that crew, how often since he hath appeared for us <hi>(as in the Mount)</hi> in the very <hi>pinch</hi> of our <hi>great<g ref="char:EOLhyphen"/>est extremities,</hi> when our hopes were giving up the ghost.</p>
+            <pb n="2" facs="tcp:160407:3"/>
+            <p>As at <hi>Edge-hill,</hi> at <hi>Glocester,</hi> at <hi>Newbery Marsh,</hi> and in that march neer <hi>Horne Castle,</hi> and at <hi>Selby,</hi> the routing of the Earle of <hi>Newcastles formidable</hi> Army, the timely helpe by our <hi>Scottish Brethren,</hi> and taking in <hi>Newcastle,</hi> at <hi>Namptwitch</hi> against Irish English, at <hi>Cheriton Down,</hi> and at <hi>Marston Moore,</hi> at <hi>Newbery</hi> again, when we were near as low as any time before: And after all these, when <hi>Leicester</hi> was lost, and we were againe brought low, when palenesse and fearefull astonishment had seized upon all spirits, and <hi>Taunton Dean</hi> and the <hi>West,</hi> were giving up the ghost, and feare was on every side; when the enemy was at the height of his pride, and carnall confidence, and hoped to have o<g ref="char:EOLhyphen"/>ver-run us as a flood.</p>
+            <p>Then, <hi>then</hi> the <hi>Lord</hi> arose as in a <hi>Baal-Perazim,</hi> and brought in salvation to his people, and broke downe those that rose up against them, as a <hi>flood</hi> of <hi>mighty</hi> waters, that the sound thereof was heard in all Lands, as 1 <hi>Chron.</hi> 14.11.17.</p>
+            <p>Or as when <hi>he marched</hi> in the <hi>angell of his presence</hi> before <hi>Iosua,</hi> and Israel his people, when they entred to possesse the Land, <hi>how good</hi> was the <hi>Lord</hi> then in <hi>all these</hi> unto us, and how greatly to be praised, and truly and faithfully to be served by us? <hi>how well</hi> might he say to us, as to his people, <hi>Exod.</hi> 19.4, 5, 6.?</p>
+            <p>And againe, looke we back, <hi>look we backe,</hi> O <hi>foolish</hi> people and unwise, and see how ungratefully we have requited the God of our salvation.</p>
+            <p>Even when <hi>he</hi> was <hi>most glorious</hi> in our deliverance, we then <hi>e<g ref="char:EOLhyphen"/>ven then</hi> instead of consecrating our selves unto his grace, to re<g ref="char:EOLhyphen"/>ceive Christ into our hearts, and <hi>to walke worthy of him in our lives;</hi> instead of provoking each other to love and to good workes in going <hi>one before other in the example of a reall Reforma<g ref="char:EOLhyphen"/>tion,</hi> we then in opposition to the many and great commands of the Gospell, begun to side into parties, to turne <hi>Religion</hi> into <hi>Fa<g ref="char:EOLhyphen"/>ction,</hi> and band it one against another, even to turn (if possible) each other out of place: bending our endeavours rather to ad<g ref="char:EOLhyphen"/>vance a party in Religion, (as if the maine of Religion consisted therein) then to shew <hi>forth the vertue,</hi> the graces <hi>of him who cal<g ref="char:EOLhyphen"/>led us out of darknesse,</hi> and delivered us out of the night of our af<g ref="char:EOLhyphen"/>fliction, which is indeed the maine of our holy profession, (and of all our <hi>holy vowes,</hi> made in our distresse) <hi>viz.</hi> to live by faith, and walke in love, and to take for our helmet the hope of salva<g ref="char:EOLhyphen"/>tion,
+<pb n="3" facs="tcp:160407:3"/>
+               <hi>(as having had so many experiences)</hi> in holinesse, righteous<g ref="char:EOLhyphen"/>nesse and selfe-deniall, <hi>holding forth the word of life</hi> (to receive Christ in our hearts, and to walke more worthy of him in our lives, to go one before another in the example of a reall Refor<g ref="char:EOLhyphen"/>mation) in <hi>worshipping God in the Spirit, rejoycing in Christ Jesus, and having no confidence in the flesh,</hi> consists the <hi>all</hi> in <hi>all</hi> of the Christian, whether of the <hi>circumcision</hi> or the <hi>uncircumcision,</hi> of the <hi>Presbyterian</hi> or any waies <hi>dissenting</hi> judgements: In all which we know we have most sinfully, shamefully, declined, and have frequented most contrary wayes of diffidence in God, and hasty acting in our own strength and way, towards the attaining our desired ends, which he that believes needs not do, yea and have walked in wayes of <hi>hatred, anger, envie, clamour,</hi> and <hi>evill speak<g ref="char:EOLhyphen"/>ing,</hi> in pride, oppression, &amp; worldly minded, self-seeking; yea and in much wherein we pretended to be most for God, if we were but searched to the bottome; we are rather acted by a sense of our pre-ingagements, and so indeed serve therein our own selves (yea and in much the Devill) and not our God: we look not <hi>towards him</hi> with a <hi>single eye,</hi> nor towards our brethren with an eye of true <hi>Christian love, which covereth sinnes,</hi> but we look on them through a <hi>multiplying glasse, we multiply</hi> and discover them to all the world I and that before any Christian proceedings to <hi>gaine</hi> our brethren: and whereas <hi>love</hi> seeketh not her <hi>owne,</hi> nor looketh on her <hi>owne things;</hi> we look not on the things of <hi>others,</hi> unlesse on their <hi>failings,</hi> nor do we <hi>seeke</hi> others, unlesse their <hi>fai<g ref="char:EOLhyphen"/>ling;</hi> we <hi>consider not one another to provoke unto love,</hi> and thank<g ref="char:EOLhyphen"/>full service to the <hi>God of our mercies,</hi> but to that wrath, <hi>which worketh not the righteousnesse which is of God:</hi> declining the <hi>Rules of Christ,</hi> and way of his peaceable Saints, and giving our selves to bite and devoure one another, until <hi>now</hi> our sin is ready to be<g ref="char:EOLhyphen"/>come our plague; this Cockatrice egge is ready to bring forth a <hi>fiery devouring serpent,</hi> and most certainly will <hi>(for Gods word is true)</hi> if mercy interpose not to the <hi>reconciling</hi> of our <hi>spirits;</hi> though in our judgements we should in some things differ still.</p>
+            <p>Alas, alas, may not Christians and Christians, yea eminent Christians live and enjoy civill interests in common together, be<g ref="char:EOLhyphen"/>cause they exactly come not up (or peradventure in some things not done) to each others received opinions and practises in re<g ref="char:EOLhyphen"/>ligion, must one party of necessity lay the other under board?</p>
+            <pb n="4" facs="tcp:160407:4"/>
+            <p>Are ye swolne so big with pride, that the Land and <hi>places of trust</hi> cannot hold you <hi>both,</hi> now the good Lord be good to his poore people, will not these sonnes of <hi>Zebedee</hi> receive our <hi>Sa<g ref="char:EOLhyphen"/>viours</hi> check?</p>
+            <p>Take we heed brethren, I beseech you, for the <hi>Lords</hi> sake, and for his peoples sake, his owne <hi>inheritance,</hi> that are imbarqued with you; if you sinke the ship, you are likely to answer for <hi>all</hi> our lives, and ye must give accompt thereof to God, yee shall stand before the Judge, and if ye persist in this contention, <hi>it will most certainely sinke us;</hi> you see we have enough to doe to saile when all united.</p>
+            <p>Truly, it is to me a <hi>wonder,</hi> that the small <hi>flocke of Christ</hi> is not devoured by the much greater number of <hi>greedy Wolves,</hi> even when they stand fastest together, its only the <hi>miraculous hand of him</hi> that <hi>dwels among the united in love,</hi> and bids them not <hi>to feare,</hi> that is their securitie: but if they <hi>devide</hi> and <hi>he with-draw,</hi> can they be safe? no, reason saith, they <hi>cannot,</hi> justice saith, they <hi>shall not,</hi> yea <hi>love</hi> and <hi>mercy</hi> consents in it, that so they may be con<g ref="char:EOLhyphen"/>strained to unite and stand together: but how much lesse can they bee safe, if they shall as a fire consume, or as potters vessells, (for such we are) dash in pieces one another.</p>
+            <p>O <hi>friends, friends,</hi> as ye feare <hi>God,</hi> and love his <hi>Son</hi> our Lord, who is so tender over his <hi>little ones,</hi> take heed ye lose not your selves, and these stickling fiery spirits amongst your selves, that would ingage you to call fire from heaven upon their brethren, (but who it would consume they know not;) their Master loves them better then to lose them, for <hi>all their heat,</hi> and would not have the <hi>law of retaliation</hi> take place upon them; he hath died for them, as for <hi>those, Luke</hi> 9.54.</p>
+            <p>But if ye shall yet be carelesse of your selves and <hi>these,</hi> yet looke well to it, there are many thousands of peaceable spirits, whose sighs to heaven will make a sad complaint against you; <hi>Against you, O ye</hi> the great sticklers in these two <hi>grand divisions,</hi> (that I say not factions) if you shall ingage them in <hi>blood,</hi> either for the obtaining the <hi>Militia,</hi> and places of trust in the King<g ref="char:EOLhyphen"/>dome, into the hands of all of either of your two parties; that ye as <hi>Kings may rule alone:</hi> Or for the obtaining from the Magi<g ref="char:EOLhyphen"/>strate against <hi>those</hi> whom <hi>holy Paul Phil.</hi> 1.7. or other <hi>holy Scri<g ref="char:EOLhyphen"/>pture</hi>
+               <pb n="5" facs="tcp:160407:4"/> judges <hi>meet to be esteemed Saints,</hi> either <hi>stripes</hi> or <hi>frownes</hi> in reference to those miscarriages which are to be accompted conscientious failings in their religious conversations in the Churches of Christ.</p>
+            <p>Or else on the other side, for maintaining <hi>heresies,</hi> or the ob<g ref="char:EOLhyphen"/>taining a licentious lewdnesse in Religion, to be incouraged or countenanced by a <hi>Law.</hi>
+            </p>
+            <p>I say, if you shall ingage them in <hi>blood,</hi> or indanger the losse of <hi>Religion</hi> and <hi>liberty,</hi> for the obtaining many things lesse prin<g ref="char:EOLhyphen"/>cipall, although desirable and good, how much more if for such as ought not to be desired?</p>
+            <p>Take heed, <hi>O take heed</hi> of division and contention to advance factions, and be intreated in the spirit of Christ, to <hi>pursue peace and holinesse,</hi> to stand fast in the faith, and follow truth in love, and be ye <hi>kinde one to another, tender-hearted, forgiving one ano<g ref="char:EOLhyphen"/>ther, even as God for Christs sake hath forgiven you, Eph.</hi> 4.32. And, <hi>Put on as the elect of God, holy and beloved, bowels of mer<g ref="char:EOLhyphen"/>cies, kindnesse, humblenesse of minde, meeknesse, long suffering, for<g ref="char:EOLhyphen"/>bearing one another, and forgiving one another, if any man have a quarrell against any, even as Christ forgave you, so also do ye; and above all these put on charity, which is</hi> &amp;c. <hi>Col.</hi> 3.12. to 15.</p>
+            <p>Yet O deare Brethren, <hi>fellow-Christians,</hi> and <hi>Countrey-men,</hi> if there be any (as I feare there is much) such guilt upon persons a<g ref="char:EOLhyphen"/>mongst us, as that with the persons upon whom it is we may make no peace, justice commanding and calling for execution from; in this I must be silent, or els notwithstanding all those ingagements to love, mercy and forgivenesse, I must cry for ju<g ref="char:EOLhyphen"/>stice also, especially (and unquestionably) in the case of <hi>blood;</hi> if any be known to have the guilt of blood upon them, or if the land be guilty, the person or persons not being known.</p>
+            <p>The Scriptures are indeed therein expresse, that <hi>whosoever</hi> (without exception) <hi>shall kill any person, the Judge shall slay the murtherer, by man shall his blood bee shed; no satisfaction shall be taken for his life, but he shall surely be put to death, Rom.</hi> 35.30, 31. and that the Land <hi>cannot be cleansed from the blood that is shed therein, but by the blood of him that shed it,</hi> (for blood defileth a Land) Ver. 33.</p>
+            <p>So that in case the murtherer is knowne, the case is cleare the murtherer must die: and in case that murther is knowne to bee
+<pb n="6" facs="tcp:160407:5"/> done in the <hi>Land,</hi> and the murtherer is not knowne, nor can by diligent <hi>inquisition</hi> (which must be made) be found out and dis<g ref="char:EOLhyphen"/>covered: yet then are the Elders (the chiefe Governours) in most solemne manner to declare the thing, and protest their own in<g ref="char:EOLhyphen"/>nocency and their ignorance of the murther, <hi>that their eye hath not seen it,</hi> as <hi>Deut.</hi> 21.1. to 9. and solemnly to pray that it bee not (by the Lord) imputed unto the Land, <hi>and the blood shall bee forgiven them,</hi> Ver. 8. and what must then be done in reference to our father <hi>James</hi> of famous memory, and his sonne, his un<g ref="char:EOLhyphen"/>cle, and his cozen, with many others, (if Doctor <hi>Egleshams</hi> printed report be true) but especially in reference to those mul<g ref="char:EOLhyphen"/>titudes of innocent Irish English Christians so barbarously mas<g ref="char:EOLhyphen"/>sacred in Ireland.</p>
+            <p>And further in this our pursuit of peace and good agreement, we also must be mindfull (as ignorant we are not) that there are many persons in each party of our two grand divisions, who ac<g ref="char:EOLhyphen"/>cording to the <hi>extreamenesse</hi> of their principles, doe pursue after <hi>extreame</hi> desires and ends, as either on the one hand lusting af<g ref="char:EOLhyphen"/>ter <hi>Dominion</hi> and <hi>Lordship over Gods heritage,</hi> endeavour to ob<g ref="char:EOLhyphen"/>tain a <hi>carnall</hi> power from the Magistrate to excercise that domi<g ref="char:EOLhyphen"/>on <hi>carnally,</hi> or betraying the <hi>authority</hi> given by <hi>Christ our Lord,</hi> unto his Church, not onely engage the Magistrate in things pro<g ref="char:EOLhyphen"/>perly appertaining to the <hi>Churches cognizance,</hi> but refuse to act in Christs name and by his authority, untill (or any further then) the Magistrate will by his power direct them in and secure them for, so doing; or else on the other hand to tie up the hand of the Magistrate from punishing notorious evill doers against <hi>Rom.</hi> 13. if not, which is worse, to engage him by a declared <hi>generall toleration</hi> to countenance and incourage heresies and blasphemies by a Law.</p>
+            <p>Neither of which can have their desires granted without an extreamer damage and disadvantage to Religion and the pub<g ref="char:EOLhyphen"/>like interest, whom our endeavours therefore must be rather to moderate and pacifie, then to satisfie in their desires; onely the wise according to sobriety, can have their desires (as consisting with Gods honour and publike safety) satisfied and fulfilled. And peradventure for <hi>peace sake,</hi> something of what is <hi>truly de<g ref="char:EOLhyphen"/>sirable</hi> must for present be <hi>forborne,</hi> as not yet to bee obtained, without a greater <hi>over-ballancing,</hi> evill coming along with it.</p>
+            <pb n="7" facs="tcp:160407:5"/>
+            <p>For the avoyding of <hi>which</hi> evils and extreams, on the Right hand, and on the left, and obtaining a <hi>greatly desired</hi> healing and setling of our present distempers, and prevention of that destruction which now lyeth at the very door: These Additional expedients are humbly tendred to Consideration.</p>
+            <p>First, that a day of general humiliation may be speedily obtained wherein in special to humble our selves for our miscarriages in the <hi>former references,</hi> and to <hi>wrastle</hi> with God for Grace and mercy in this business.</p>
+            <p n="2">2. That the Solemn Covenant <hi>truly</hi> and <hi>candidly</hi> understood should be Religiously and inviolably observed. That the <hi>Word of God,</hi> and not humane example, nor Magisterial authority or coun<g ref="char:EOLhyphen"/>tenance, may in our <hi>Church Reformation</hi> be <hi>especially</hi> eyed.</p>
+            <p n="3">3. And that we in tithing of Mint and Annise, in our <hi>eager pur<g ref="char:EOLhyphen"/>suite</hi> of <hi>uniformity</hi> in circumstantials, indanger not the losing of <hi>unity of spirit</hi> and the lively exercise of faith, and love, the great du<g ref="char:EOLhyphen"/>ties of a Christian, and so be found <hi>contrariant</hi> to sound Doctrine, and the power of godliness: But that we make it our <hi>Great design</hi> to live together in <hi>faith and love,</hi> that the <hi>Lord may delight to dwel among us.</hi>
+            </p>
+            <p n="4">4. And although we be not all of one size, some <hi>higher</hi> and <hi>stronger,</hi> some weaker, and <hi>less necessary</hi> — that we <hi>covering</hi> sins, and being ambitious of giving honor, may give more <hi>abundant honor to that part which lacketh,</hi> whether Presbyterian or dissen<g ref="char:EOLhyphen"/>ting, that there be no schism in the body 1 <hi>Cor.</hi> 12.25. And yet by all due Christian means, endeavour to suppress all <hi>superstition, Heresie, Prophaness,</hi> and whatsoever is found contrary to <hi>sound Doctrine,</hi> and the <hi>power of godlsness,</hi> That the Lord may be one, and his name one.</p>
+            <p n="5">5. That in the name of Christ, and by his Authority all worldly Institutions and officers, as Prelates &amp;c. in the Church and Kingdom of <hi>Jesus Christ</hi> may be expulsed and suppressed.</p>
+            <p n="6">6 That justice may be done, both to King and people, and all in their just Rights defended in the preservation and defence of true Religion and Liberty.</p>
+            <p n="7">7. That Justice be done upon Incendiaries, Dividers of Church or <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tate into factions and parties among the people; and in particular and special upon the wilful opposers and hinderers of the peace and union of, and between the three Kingdoms.</p>
+            <p n="8">
+               <pb n="8" facs="tcp:160407:6"/>8. That a quest of inquity be speedily appointed for searching ofts the <hi>Achans,</hi> especially <hi>men of blood</hi> that trouble our <hi>Israel,</hi> and pro<g ref="char:EOLhyphen"/>cure the curse, or the continuance thereof: that Justice may pro<g ref="char:EOLhyphen"/>ceed according to Covenant and the curse may cease. And that: any thing hard or difficult herein appear, The assembly of Divine be therein consulted.</p>
+            <p>That what <hi>guilt of innocent blood</hi> is found to lie upon us, the au<g ref="char:EOLhyphen"/>thors whereof cannot be found (or not dealt with according to common Iustice) — That in reference thereunto though we are not to kil the <hi>red cow,</hi> as <hi>Deut.</hi> 21. yet to do that which is <hi>equivalent</hi> thereunto— viz. <hi>solemnly</hi> to humble our selves before the Lord, and expiate the sin by faithful prayer for pardon in the blood of Christ, <hi>That the sin may be forgiven us,</hi> as <hi>Deut.</hi> 21.8.</p>
+            <p n="9">9. That in pursuance of Unity, Peace and good Agreement in the things of Religion (as there is already appointed fit persons to treat for the settling of the general and great affairs of the Kingdom) <hi>so also</hi> in particular and <hi>special,</hi> That (if it be not already done as was reported) some of the <hi>most eminently approved godly,</hi> impartial, and in this difference <hi>most disingaged</hi> either of the <hi>Parliament</hi> or <hi>Ministry,</hi> or others, whom the <hi>Parliament</hi> shal think fit, be ap<g ref="char:EOLhyphen"/>pointed speedily to consider of some expedients tending thereunto.</p>
+            <p n="10">10. That things may therein be so stated, that none fearing God and conscientiously walking in his word and worship (or according to Scripture grounds to be accounted for such; <hi>viz.</hi> visible Saints not liable to Church censure, but capable of Christian Communion) may not be <hi>therein</hi> molested or disheartned, but receive all due in<g ref="char:EOLhyphen"/>couragement and countenance both from <hi>each other,</hi> and from the <hi>Magistracy of the Kingdom,</hi> yet so as not owning one anothers errors or miscarriages, but <hi>walking together in that whereunto they have already attained.</hi>
+            </p>
+            <p n="11">11. and that in setling the other great affairs of the Kingdom care may be taken so to state things with impartial respect unto the wel-deserving of either Judgment, that none that are wel-affected to the <hi>publick Interest</hi> may be deprived of their <hi>just civil Rights and Pri<g ref="char:EOLhyphen"/>viledges,</hi> nor any that have wel deserved of the Kingdom may lose their <hi>due honor</hi> and <hi>reward,</hi> because dissenting something in opi<g ref="char:EOLunhyphen"/>nion.</p>
+            <p n="12">12. That in the time of the Treaty for the removing and preventing of suspitions and jealousies on either side; That all those Comman<g ref="char:EOLhyphen"/>ders
+<pb n="9" facs="tcp:160407:6"/> formerly of the Army at the time of the displeasing Vote passed against their Petition, as wel as the old <hi>Militia</hi> of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> except such of both against whom material objections of un<g ref="char:EOLhyphen"/>faithfulness or other palpable gross absurdities can be made, may be set in <hi>statis quo prius.</hi> Or if the City cannot yeeld that the old <hi>Militia</hi> shal take place with the exceptions as above, that then the City beg leave of the Parliament to choose a new with promise and assurance to choose such as shal please the Parliament and remove Jealousies, (the City soldiery in the interim to be inabled to act under any one, two or three for common quiet, and the Army to forbear advancing) which course would also unite the City. And the places of trust in the City &amp; Kingdom being for the present impartialy distributed amongst the able, wel-deserving, best-esteemed, and most moderate of both parties, would remove jealousies and unite both City and King<g ref="char:EOLhyphen"/>dom.</p>
+            <p n="13">13. That Immediatly after such setling the <hi>Army</hi> and <hi>Militia,</hi> The <hi>Eleven Members</hi> be speedily called to <hi>tryal,</hi> or else (urgency of occasions not permitting) to give security to <hi>answer when called</hi> and in the mean time to injoy their places and Priviledges of <hi>Sitting</hi> and <hi>Voting</hi> in <hi>Parliament.</hi>
+            </p>
+            <p n="14">14. That the <hi>Presbyterian Government</hi> in the most <hi>Spiritual perfection</hi> and freedom thereof may be incouraged.</p>
+            <p n="15">15. That (the Law of <hi>premunire</hi> being taken away) they may have liberty to act according to the <hi>Word of God,</hi> and <hi>Cannons</hi> of the Great Doctor and Lawgiver, <hi>Christ Jesus;</hi> and may be admo<g ref="char:EOLhyphen"/>nished (as the Britains by the Bishop of <hi>Rome,</hi> to search <hi>there</hi> for Rules and Laws to govern the <hi>Churches of Christ,</hi> And may not be bound up by <hi>humane</hi> Restrictions.</p>
+            <p n="16">16. That some course be thought on to inflict severe penalties upon <hi>railing Rabshekaes,</hi> that in such <hi>sordid</hi> and <hi>scurrilous</hi> language or writings (as is now common) do or shal vilifie the said <hi>Government</hi> or <hi>Ministry</hi> thereof, or the <hi>Ministry</hi> of the Kingdom in <hi>general,</hi> or any religious <hi>way,</hi> or persons in reference to such <hi>way,</hi> or any re<g ref="char:EOLhyphen"/>ligious Societies whatsoever, especially if not before declared against by the then present Government of the Kingdom.</p>
+            <p n="17">17. But <hi>let all bitterness, and anger, and wrath, and clamour, and evil speaking bee</hi> (commanded to be) <hi>put away</hi> (from all Chri<g ref="char:EOLhyphen"/>stians in this Kingdom) <hi>with all malice,</hi> Eph. 4.31. Seeing <hi>Mi<g ref="char:EOLhyphen"/>chael
+<pb n="10" facs="tcp:160407:7"/> the Archangel, when contending with the Devil</hi> &amp;c. <hi>durst not bring against him a railing accusation, but said, The Lord rebuke thee,</hi> Iude 9.</p>
+            <p n="18">18. <hi>And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankeful,</hi> Col. 3.15.</p>
+            <p>
+               <hi>Fall not out by the way,</hi> Gen. 45.24.</p>
+            <p>
+               <hi>Have peace one with another,</hi> Marke 9.5.</p>
+            <p>
+               <hi>By this shal all men know that you are my Disciples, if ye have love one to another,</hi> John 13.34, 35.</p>
+            <p>
+               <hi>He that loveth not his brother abideth in death,</hi> 1 Iohn 3.14.</p>
+            <p>
+               <hi>Love envieth not, boasteth not it self, is not puffed up; love seeketh nother own things, thinketh no evil, — love beleeveth all things, hopeth all things, indureth all things.</hi> 1 Cor. 13.4.5.7.</p>
+            <p>
+               <hi>Thy destruction is of thy self O Israel.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
